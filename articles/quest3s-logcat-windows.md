@@ -63,7 +63,7 @@ adb devices -l
 
 ```powershell
 $device = "340YC10G7P0CNR"  # adb devices -l で確認したシリアル番号
-adb -s $device logcat -v time Unity:D AdrenoVK-0:D OVRPlugin:D Ripc*:I ActivityManager:I WindowManager:I *:S > log_filtered.txt
+adb -s $device logcat -v time Unity:D AdrenoVK-0:D OVRPlugin:D Ripc*:I ActivityManager:I WindowManager:I *:S > log.txt
 ```
 
 - `$device` に人間が確認したシリアル番号を入力  
