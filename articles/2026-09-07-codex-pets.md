@@ -3,7 +3,7 @@ title: "CodexのPetsはいらないと思っていたけれど、開発中の心
 emoji: "🐾"
 type: "idea"
 topics: ["codex", "ai", "開発環境"]
-published: false
+published: true
 ---
 
 Codexのペットを使用していますか？
@@ -32,7 +32,7 @@ Petsは、作業中の画面にアニメーションするペットを表示で�
 
 覗いてみると、かなり自由な顔ぶれが並んでいました。正直、第一印象は「ここ、無法地帯では……？」です。
 
-![Codex Petsの共有一覧。人物の似顔絵などは残し、Clawd、Fern、Clippy、Pikaのキャラクター部分にモザイクをかけた画像](/images/2026-09-07-codex-pets/codex-pets-selective-mosaic.png)
+![Codex Petsの共有一覧。著作権の関係で一部のキャラクターにモザイクをかけています](/images/2026-09-07-codex-pets/codex-pets-selective-mosaic.png)
 *出典：Codex Petsの閲覧数順一覧。掲載画像はスクリーンショットを加工し、Clawd・Fern・Clippy・Pikaの絵柄をモザイクで隠しています。名前は読める状態で残しています。*
 
 画像を見ると、Dario、Xi Jinping、Trumpといった実在人物を題材にしたものに加えて、フェルンを思わせる「Fern」や、ピカチュウを思わせる「Pika」、さらには「Clippy」まで同じ一覧に並んでいます。
